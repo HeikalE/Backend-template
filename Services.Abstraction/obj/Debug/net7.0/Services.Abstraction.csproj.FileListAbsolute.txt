@@ -1,0 +1,15 @@
+D:\Projects\Templates\backend\Services.Abstraction\bin\Debug\net7.0\Services.Abstraction.deps.json
+D:\Projects\Templates\backend\Services.Abstraction\bin\Debug\net7.0\Services.Abstraction.dll
+D:\Projects\Templates\backend\Services.Abstraction\bin\Debug\net7.0\Services.Abstraction.pdb
+D:\Projects\Templates\backend\Services.Abstraction\bin\Debug\net7.0\Domain.dll
+D:\Projects\Templates\backend\Services.Abstraction\bin\Debug\net7.0\Domain.pdb
+D:\Projects\Templates\backend\Services.Abstraction\obj\Debug\net7.0\Services.Abstraction.csproj.AssemblyReference.cache
+D:\Projects\Templates\backend\Services.Abstraction\obj\Debug\net7.0\Services.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Templates\backend\Services.Abstraction\obj\Debug\net7.0\Services.Abstraction.AssemblyInfoInputs.cache
+D:\Projects\Templates\backend\Services.Abstraction\obj\Debug\net7.0\Services.Abstraction.AssemblyInfo.cs
+D:\Projects\Templates\backend\Services.Abstraction\obj\Debug\net7.0\Services.Abstraction.csproj.CoreCompileInputs.cache
+D:\Projects\Templates\backend\Services.Abstraction\obj\Debug\net7.0\Services.Abstraction.csproj.CopyComplete
+D:\Projects\Templates\backend\Services.Abstraction\obj\Debug\net7.0\Services.Abstraction.dll
+D:\Projects\Templates\backend\Services.Abstraction\obj\Debug\net7.0\refint\Services.Abstraction.dll
+D:\Projects\Templates\backend\Services.Abstraction\obj\Debug\net7.0\Services.Abstraction.pdb
+D:\Projects\Templates\backend\Services.Abstraction\obj\Debug\net7.0\ref\Services.Abstraction.dll
